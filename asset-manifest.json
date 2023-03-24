@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/web-todo-3/static/css/main.67243ae5.css",
+    "main.js": "/web-todo-3/static/js/main.d11ad259.js",
+    "static/media/TabImage.svg": "/web-todo-3/static/media/TabImage.77bf4030eb54e3852039357e83e8eda2.svg",
+    "static/media/DesignImage.svg": "/web-todo-3/static/media/DesignImage.26d2af4cd6f73282858349e9ae1a9c6d.svg",
+    "static/media/MobImage.svg": "/web-todo-3/static/media/MobImage.21252bf0066de99abc2a5be5cf10bb16.svg",
+    "static/media/Shape.svg": "/web-todo-3/static/media/Shape.8a098369ebed522657c431e533db54c9.svg",
+    "index.html": "/web-todo-3/index.html",
+    "static/media/Photography.svg": "/web-todo-3/static/media/Photography.07212af20df8e08aaa2b6fcddbbb8e2c.svg",
+    "static/media/Design.svg": "/web-todo-3/static/media/Design.e70b7334d96b5a06a23a3be499f3d02e.svg",
+    "static/media/Business.svg": "/web-todo-3/static/media/Business.2c2fc274c8db742652a9af216d0f8cb7.svg",
+    "static/media/Crypto.svg": "/web-todo-3/static/media/Crypto.82e469b77fe60273c986a5db34f11e2a.svg",
+    "main.67243ae5.css.map": "/web-todo-3/static/css/main.67243ae5.css.map",
+    "main.d11ad259.js.map": "/web-todo-3/static/js/main.d11ad259.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67243ae5.css",
+    "static/js/main.d11ad259.js"
+  ]
+}
